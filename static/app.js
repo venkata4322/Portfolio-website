@@ -254,7 +254,8 @@ if (typedName && typedTagline) {
   }, 500);
   
   setTimeout(() => {
-    typeWriter(typedTagline, 'AI/ML Engineer & Business Strategist', 60);
+    typeWriter(typedTagline, 'Finance Student | Aspiring IB Analyst | Financial Modeling & Valuation Expert
+', 60);
   }, 3500);
 }
 
